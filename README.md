@@ -4,7 +4,7 @@
 
 ###  NAME: M.YOGASRI
 ###  ROLL NO : 212224220124
-###  DEPARTMENT: B.E IT
+###  DEPARTMENT: B.TECH IT
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
 
